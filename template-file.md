@@ -3,7 +3,8 @@ layout: slide
 title: "This is my funny caption"
 ---
 
-Caption here
+Hello!
 
-![femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
+![hulatocat](https://octodex.github.com/hulatocat/)
 {: .center}
+
